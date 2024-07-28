@@ -10,7 +10,7 @@
   - collaborate on projects that involve ML or Data Science for the experience and fun of it.
 - 📫 You can reach me on:
   - [X](https://x.com/omoruyiekelvin)
-- You can check out sone of my works on [Kaggle](https://www.kaggle.com/omoruyikelvin/code)
+- You can check out some of my works on [Kaggle](https://www.kaggle.com/omoruyikelvin/code)
 
 <!---
 mrkomoruyi/mrkomoruyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
