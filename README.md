@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Omoruyi Kelvin**.
+- 👋 Hi, I’m **Kelvin Omoruyi**.
 - 👀 I a dedicated **AI/ML Engineer** with hands-on experience building production models and deploying them as scalable, high performance APIs.
   - I believe artificial intelligence can help humanity in many more ways than already utilized.
   - And I love anayzing and working with data.
