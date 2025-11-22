@@ -1,20 +1,15 @@
-- 👋 Hi, I’m **Omoruyi E. Kelvin**.
-- 👀 I’m interested in **Machine Learning** and **Data Science**.
-  - I build ML models because I find them very interesting and fun to use. Plus, I believe they can help humanity in so much more ways than already utilized!
-  - And I love experimenting and working with Data.
-  - Computer Vision is frigging cool! 😂❤️
+- 👋 Hi, I’m **Omoruyi Kelvin**.
+- 👀 I a dedicated **AI/ML Engineer** with hands-on experience building production models and deploying them as scalable, high performance APIs.
+  - I believe artificial intelligence can help humanity in many more ways than already utilized.
+  - And I love anayzing and working with data.
 - 🌱 I’m currently:
-  - improving my ML skills by working on small-scale, real-world projects.
-  - learning NLP and its applications.
-- 💞️ I’m looking to:
-  - undergo internship under an experienced ML engineer or Data Scientist to gain experience.
-  - collaborate on projects that involve ML or Data Science for the experience and fun.
+  - improving my ML skills by working on small and medium scale, real-world projects.
+  - learning and applying new techniques in data analysis, model development and model deployment.
+- 📌 I’m looking to:
+  - undergo an internship under experienced ML engineers or Data Scientists to gain hands-on experience working in large scale production environments.
+  - collaborate with others building solutions to real problems.
 - 📫 You can reach me on:
   - [X](https://x.com/omoruyiekelvin)
-  - Email - kelvomo9ja@gmail.com
-- You can check out some of my publically available jupyter notebooks on [Kaggle](https://www.kaggle.com/omoruyikelvin/code)
-
-<!---
-mrkomoruyi/mrkomoruyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - [LinkedIn](https://linkedin.com/in/kelvin-omoruyi/)
+  - Email - kelvin.omoruyi.dev@gmail.com
+- You can check out some of my publicly available jupyter notebooks on [Kaggle](https://www.kaggle.com/omoruyikelvin/code)
