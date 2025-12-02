@@ -3,8 +3,7 @@
   - I believe artificial intelligence can help humanity in many more ways than already utilized.
   - And I love anayzing and working with data.
 - 🌱 I’m currently:
-  - improving my ML skills by working on small and medium scale, real-world projects.
-  - learning and applying new techniques in data analysis, model development and model deployment.
+  - Working on projects to learn new technologies and hone my skills even further.
 - 📌 I’m looking to:
   - undergo an internship under experienced ML engineers or Data Scientists to gain hands-on experience working in large scale production environments.
   - collaborate with others building solutions to real problems.
