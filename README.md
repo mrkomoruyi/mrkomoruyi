@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Kelvin Omoruyi**.
-- 👀 I a dedicated **AI/ML Engineer** with hands-on experience building production models and deploying them as scalable, high performance APIs.
+- I a dedicated **AI/ML Engineer** with hands-on experience building production models and deploying them as scalable, high performance APIs.
   - I believe artificial intelligence can help humanity in many more ways than already utilized.
   - And I love anayzing and working with data.
 - 🌱 I’m currently:
@@ -7,8 +7,7 @@
 - 📌 I’m looking to:
   - undergo an internship under experienced ML engineers or Data Scientists to gain hands-on experience working in large scale production environments.
   - collaborate with others building solutions to real problems.
-- 📫 You can reach me on:
-  - [X](https://x.com/omoruyiekelvin)
-  - [LinkedIn](https://linkedin.com/in/kelvin-omoruyi/)
+- 📫 You can reach me via:
   - Email - kelvin.omoruyi.dev@gmail.com
+  - [LinkedIn](https://linkedin.com/in/kelvin-omoruyi/)
 - You can check out some of my publicly available jupyter notebooks on [Kaggle](https://www.kaggle.com/omoruyikelvin/code)
