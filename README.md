@@ -6,9 +6,10 @@ Whenever I'm not analyzing data or fine tuning models in a Jupyter notebook, I'm
 
 At other times, you might find me learning new tools or contributing on GitHub.
 
-I am a strong believer that artificial intelligence can help humanity in many more ways than already utilized and so I keep an open mind and test ideas frequently.
+I am a strong believer that artificial intelligence can help humanity in many more ways than already utilized so I keep an open mind and test ideas frequently.
 
 You can check out some of my publicly available notebooks on [Kaggle](https://www.kaggle.com/omoruyikelvin/code)
 
 # Find me on other platforms 📭
+
 [LinkedIn](https://www.linkedin.com/in/kelvin-omoruyi/)
